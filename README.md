@@ -81,22 +81,12 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
 
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="alexandermartinez19a@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://www.linkedin.com/in/josu%C3%A9-alexander-rivera-mart%C3%ADnez-/.&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/josu%C3%A9-alexander-rivera-mart%C3%ADnez-/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 </div>
 
