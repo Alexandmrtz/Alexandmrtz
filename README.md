@@ -74,17 +74,7 @@
 
 </div>
  
- ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandmrtz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Alexandmrtz&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
 
 ### 🔗 &nbsp;Contact Me
 
